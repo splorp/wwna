@@ -1,0 +1,52 @@
+html
+{
+	margin: 10px;
+	padding: 0px;
+	background-color: #1A4A01;
+	color: #020;
+}
+
+body
+{
+	padding: 10px;
+	border: #020 1px dotted;
+	background: #fff;
+	color: #020;
+	font-family: New York, Verdana, sans-serif;
+	line-height: 140%;
+}
+
+hr
+{
+	border-top: #020 1px dotted;
+	border-bottom: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	height: 1px;
+	clear: both;
+}
+
+div.clear
+{
+	clear: both;
+}
+
+h1
+{
+	text-align: center;
+}
+
+p.navigation
+{
+	font-size: small;
+}
+
+img.right
+{
+	float: right;
+	border: 0;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-right: 3px;
+	margin-left: 10px;
+}
